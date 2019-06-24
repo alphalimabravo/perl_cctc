@@ -1,2 +1,2 @@
 # perl_cctc
-Work completed while at Central Carolina Technical College in SC, USA.
+Author: Alexis Berens. Jun 2019. Work completed at Central Carolina Technical College in SC, USA.
